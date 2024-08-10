@@ -11,17 +11,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghshamkapure&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=meghshamkapure&icon=5&color=7)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/meghshamkapure1) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
